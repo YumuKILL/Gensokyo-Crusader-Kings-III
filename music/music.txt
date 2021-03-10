@@ -1,0 +1,436 @@
+﻿
+#### MOOD TRACKS
+
+
+mx_mood_call_01 = {
+	music = "file:/music/CarrotWinetheEmbodimentofScarletDevil.ogg"
+	weight = 15
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_02 = {
+	music = "file:/music/FloatingCloudEastern.ogg"
+	weight = 15
+	mood = yes
+	can_be_interrupted = no
+}
+
+mx_mood_call_03 = {
+	music = "file:/music/FloatingCloudGENSO-MIYAKO-BUSHI.ogg"
+	weight = 15
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_04 = {
+	music = "file:/music/FloatingCloudHakureishornpipes.ogg"
+	weight = 15
+	mood = yes
+	can_be_interrupted = no
+}
+
+mx_mood_call_05 = {
+	music = "file:/music/FloatingCloudPrayedforMtHorai.ogg"
+	weight = 14
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_06 = {
+	music = "file:/music/FloatingCloudSorrowofChen.ogg"
+	weight = 8
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_07 = {
+	music = "file:/music/Machikado-MapozeRondoforthesky.ogg"
+	weight = 10
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_chants_08 = {
+	music = "file:/music/O-LifeJapanStrayHousePerformance.ogg"
+	weight = 11
+	mood = yes
+	can_be_interrupted = no
+}
+
+mx_mood_call_10_dusk = {
+	music = "file:/music/SoundRefilWiseReflection.ogg"
+	weight = 21
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_11_dawn_part1 = {
+	music = "file:/music/FloatingCloudGardeninthesky.ogg"
+	weight = 22
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_12_dawn_part2 = {
+	music = "file:/music/FloatingCloudMountainwheredemonslive.ogg"
+	weight = 20
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_13_dawn_part3 = {
+	music = "file:/music/HarimusicToyosatomimisMedley.ogg"
+	weight = 17
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_14_dawn_part4 = {
+	music = "file:/music/fromadistanceWhiteFlagofUsaShrine.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_15_dawn_part5 = {
+	music = "file:/music/PrismriverOrchestraFiresofHokkai.ogg"
+	weight = 13
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_16_duskingsky = {
+	music = "file:/music/fromadistanceMysticMaple.ogg"
+	weight = 12
+	mood = yes
+	can_be_interrupted = no
+}
+
+mx_mood_call_17_murkiness = {
+	music = "file:/music/AQUASTYLEEasternNight.ogg"
+	weight = 15
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_balik_part1 = {
+	music = "file:/music/AQUASTYLEOldYuanXian.ogg"
+	weight = 14
+	mood = yes
+	can_be_interrupted = no
+}
+
+mx_mood_balik_part2 = {
+	music = "file:/music/FloatingCloudKyoukaisenwoMeguruFesta.ogg"
+	weight = 12
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_18_mysterious_part1 = {
+	#Should Replace
+	music = "file:/music/DenshiHotaruSistersPianoDuet.ogg"
+	weight = 18
+	mood = yes
+	can_be_interrupted = no
+}
+
+mx_mood_call_19_mysterious_part2 = {
+	#Should Replace
+	music = "file:/music/TAMUSICTheCentennialFestivalforMagicalGirls.ogg"
+	weight = 20
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call__21_mysterious_part4 = {
+	music = "file:/music/MelodicTasteGensokyoMillennium.ogg"
+	weight = 13
+	mood = yes
+	can_be_interrupted = yes
+}
+
+
+mx_mood_call_22_veni_part2 = {
+	#Should Replace
+	music = "file:/music/SoundHolicAlicemaestra.ogg
+	weight = 7
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_23_veni_part3 = {
+	#Replace Maybe...
+	music = "file:/music/TAMUSICNostalgicBloodoftheEastOldWorld.ogg.ogg"
+	weight = 18
+	mood = yes
+	can_be_interrupted = no
+}
+
+mx_mood_call_resurrection_part1 = {
+	#Should Replace
+	music = "file:/music/TAMUSICEasternJudgementintheSixtiethYearFateofSixtyYears.ogg"
+	weight = 15
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_resurrection_part2 = {
+	music = "file:/music/MarasyAliceinWonderland.ogg"
+	weight = 15
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_resurrection_part3 = {
+	music = "file:/music/MarasyHartmannsSleepingGirl.ogg"
+	weight = 15
+	mood = yes
+	can_be_interrupted = yes
+}
+##### MENA MOOD
+
+mx_mood_call__20_mysterious_part3 = {
+	music = "file:/music/FloatingCloudHearnandRenko.ogg"
+	weight = 15
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_mena_01 = {
+	music = "file:/music/AQUASTYLETheYoukaiMountainMysteriousMountain.ogg"
+	weight = 36
+	mood = yes
+	can_be_interrupted = yes
+}
+
+mx_mood_call_mena_04 = {
+	music = "file:/music/fromadistanceBreakingaThousandRocks.ogg"
+	weight = 15
+	mood = yes
+	can_be_interrupted = no
+}
+
+##### MUSIC CUES
+
+mx_cue_general_crusade_event_1 = {
+	music = "file:/music/C-ClaysTheBattleofNicopolis1396.ogg"
+	weight = 25
+	# play every time
+
+}
+
+mx_cue_general_crusade_event_2 = {
+	music = "file:/music/Hachimitsu-LemonThePrimalSceneofJapantheGirlSaw.ogg"
+	weight = 25
+	# play every time
+
+}
+
+mx_cue_general_crusade_event_3 = {
+	music = "file:/music/AQUASTYLEVertex.ogg"
+	weight = 25
+	# play every time
+
+}
+  
+mx_cue_touching_moment = {
+	music = "file:/music/k-wavesLABHisoutensoku.ogg"
+	weight = 25
+	# Cooldown
+	years = 10
+
+}
+
+mx_cue_meadandwine = {
+	music = "file:/music/FloatingCloudRiddleSolvingStep.ogg"
+	weight = 25
+	# play every time
+	calls = 3
+
+}
+
+
+mx_cue_in_taberna_instrumental = {
+	music = "file:/music/CarrotWineLove-coloredMasterSpark.ogg"
+	weight = 25
+	# play every time
+
+}
+
+mx_cue_epic_sacral_moment = {
+	music = "file:/music/fromadistanceobscure.ogg"
+	weight = 25
+	# Cooldown
+	years = 5
+
+}
+
+mx_cue_prison = {
+	music = "file:/music/KajisakoPropsStoreReverseIdeology.ogg"
+	weight = 25
+	# Cooldown
+	calls = 10
+
+}
+
+mx_cue_sacredrite = {
+	music = "file:/music/FloatingCloudTheGodsGiveUsBlessedRain.ogg"
+	weight = 25
+	# play every time
+}
+
+
+mx_cue_death = {
+	music = "file:/music/fromadistanceFateofSixtyYears.ogg"
+	weight = 25
+	# Cooldown
+	years = 15
+}
+
+mx_cue_combat_3 = {
+	music = "file:/music/O-LifeJapanIdoratrizeWorld.ogg"
+	weight = 25
+	# Cooldown
+	calls = 3
+}
+
+mx_cue_combat_2 = {
+	music = "file:/music/O-LifeJapanJoutoujinofCeramics.ogg"
+	weight = 25
+	# Cooldown
+	years = 5
+}
+
+mx_cue_ck3_vocal_maintheme = {
+	music = ""
+	weight = 25
+	# play every time
+
+}
+
+mx_cue_banquet = {
+	music = "file:/music/k-wavesLABDesireDrive.ogg"
+	weight = 25
+	# play every time
+	calls = 2
+
+}
+
+mx_cue_crusade_starts = {
+	music = "file:/music/FullPowerPitchoonProjectHeianAlien.ogg"
+	weight = 25
+	# play every time
+
+}
+
+mx_cue_war_declared = {
+	music = "file:/music/higumaRetrospectiveKyoto.ogg"
+	weight = 35
+	# Cooldown
+	calls = 3
+}
+
+mx_cue_combat_stinger = {
+	music = "event:/MUSIC/Cues/Events/Combat/mx_cue_combat_stinger"
+	weight = 25
+	# Cooldown
+	#years = 1
+}
+
+mx_cue_positive_effect = {
+	music = "file:/music/FloatingCloudTheDarkBlowhole.ogg"
+	weight = 25
+	# Cooldown
+	calls = 5
+}
+
+ mx_cue_peace_ensues = {
+	music = "file:/music/TohoArrangeOrchestraHiroariShootsaStrangeBirdTillWhen.ogg"
+	weight = 25
+	# cooldown
+}
+
+ mx_cue_faith_conversion = {
+	music = "file:/music/AQUASTYLEBlameGod.ogg"
+	weight = 25
+	# Cooldown
+	calls = 2
+}
+
+ mx_cue_birth = {
+	music = "file:/music/Foxtail-GrassStudioBoysandGirlsofaScienceEra.ogg"
+	weight = 25
+	# play only once
+}
+
+ mx_cue_stress = {
+	music = "file:/music/O-LifeJapanASoulasRedasaGroundCherry.ogg"
+	weight = 25
+	# Cooldown
+	calls = 5
+}
+
+mx_cue_illness = {
+	music = "file:/music/O-LifeJapanASoulasRedasaGroundCherry.ogg"
+	weight = 25
+	# Cooldown
+	calls = 3
+}
+
+mx_cue_murder = {
+	music = "file:/music/DiaoyezongForsakenDoll.ogg"
+	weight = 25
+	# Cooldown
+	calls = 10
+}
+
+mx_cue_succession = {
+	music = "file:/music/C-CLAYSTheLegendOfGreenEyes.ogg"
+	weight = 25
+	# play every time
+}
+
+mx_cue_succession_instrumental = {
+	music = "file:/music/
+	weight = 25
+	# play every time
+}
+
+mx_cue_seduction = {
+	music = "file:/music/LiverneTheGirlsSecretRoom.ogg"
+	weight = 25
+	# Cooldown
+	calls = 4
+}
+
+mx_cue_marriage = {
+	music = "file:/music/Foxtail-GrassStudioBoysandGirlsofaScienceEra.ogg"
+	weight = 25
+	# play only once
+}
+mx_cue_negative = {
+	music = "event:/MUSIC/Cues/Events/Combat/mx_cue_combat_stinger"
+	weight = 25
+}
+mx_cue_low_key_positive = {
+	music = "file:/music/CarrotWineTownScenery.ogg"
+	weight = 25
+}
+mx_cue_secret = {
+	music = "file:/music/O-LifeJapanASoulasRedasaGroundCherry.ogg"
+	weight = 25
+	# Cooldown
+	calls = 5
+}
+
+
+##### MAINTHEME
+
+main_theme_track = {
+	music = "file:/music/FloatingCloudCARNIVAL.ogg"
+	can_be_interrupted = yes
+}
+
+
